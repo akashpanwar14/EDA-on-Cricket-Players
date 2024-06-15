@@ -1,0 +1,2 @@
+## Exploratory Data Analysis (EDA) on Cricket Players' Careers
+This project also highlights my problem-solving skills in resolving data inconsistencies and my capability to document findings in a clear, structured manner, aligning with best practices for data analysis and reporting. These experiences have prepared me to excel in applying analytical techniques to real-world datasets as a Data Analyst.
